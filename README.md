@@ -1,5 +1,9 @@
 # Machine Lang VS Code Extension
 
+## install
+- install the .vsix file and right-click it in vscode explore, click "install extension by vsix"
+- or use npm to pack the project, then right-click the output .vsix file in vscode explore, click "install extension by vsix"
+
 ## Features
 
 - Syntax highlighting for Machine programming language
