@@ -2,7 +2,7 @@
 
 ## install
 - install the .vsix file and right-click it in vscode explore, click "install extension by vsix"
-- or use npm to pack it
+- or use npm to pack the project, then right-click the output .vsix file in vscode explore, click "install extension by vsix"
 
 ## Features
 
