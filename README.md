@@ -70,4 +70,4 @@ If you find any issues or have suggestions for improvements, please feel free to
 
 ## License
 
-MIT License
+DO WHAT YOU WANT TO DO
